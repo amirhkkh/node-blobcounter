@@ -6,9 +6,15 @@ This is an implantation of blobcounter.js library in node.js without using canva
 
 ## Installation
 
-
+### Install dependecies:
 ```bash
-npm install blobcounter --save
+$ npm install cli
+$ npm install pngjs
+```
+
+### Install :
+```bash
+$ npm install blobcounter --save
 ```
 
 ## Usage
