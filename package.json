@@ -5,14 +5,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amirhkkh/node-blobcounter.git"
+    "url": "https://github.com/satrobit/node-blobcounter.git"
   },
   "bugs": {
-    "url": "https://github.com/amirhkkh/node-blobcounter/issues"
+    "url": "https://github.com/satrobit/node-blobcounter/issues"
   },
   "author": {
     "name": "Amir Keshavarz",
-    "url": "https://github.com/amirhkkh",
+    "url": "https://github.com/satrobit",
     "email": "amirkekh@gmail.com"
   },
   "engines": {
